@@ -4,7 +4,7 @@
         "nombre":"Polvo Traslucido",
         "precio": 800,
         "stock": 15,
-        "img": "../assets/imagenes/polvo.png",
+        "img": "../ProyectoFinal-Alvarez/assets/imagenes/polvo.png",
         "cantidad": 1
     },
     {
@@ -12,7 +12,7 @@
        "nombre":"Pinceles pro" ,
        "precio": 1600,
        "stock": 3,
-       "img": "../assets/imagenes/brochas2.png",
+       "img": "../ProyectoFinal-Alvarez/assets/imagenes/brochas2.png",
        "cantidad": 1
     },
     {
@@ -20,7 +20,7 @@
         "nombre": "Pinceles set basico",
         "precio": 1000,
         "stock": 3,
-        "img": "../assets/imagenes/brochas(bis).png",
+        "img": "../ProyectoFinal-Alvarez/assets/imagenes/brochas(bis).png",
         "cantidad": 1
      },
      {
@@ -28,7 +28,7 @@
         "nombre":"Paleta",
         "precio": 2500,
         "stock": 5,
-        "img": "../assets/imagenes/paleta2(bis).png",
+        "img": "../ProyectoFinal-Alvarez/assets/imagenes/paleta2(bis).png",
         "cantidad": 1
      },
      {
@@ -36,7 +36,7 @@
         "nombre": "Giftcard maquillaje",
         "precio": 5000,
         "stock": 100,
-        "img": "../assets/imagenes/giftcard(automaquillaje).png",
+        "img": "../ProyectoFinal-Alvarez/assets/imagenes/giftcard(automaquillaje).png",
         "cantidad": 1
      },
      {
@@ -44,7 +44,7 @@
         "nombre": "Clase Automaquillaje",
         "precio": 5000,
         "stock": 100,
-        "img": "../assets/imagenes/giftcard(automaquillaje).png",
+        "img": "../ProyectoFinal-Alvarez/assets/imagenes/giftcard(automaquillaje).png",
         "cantidad": 1
      }
     
