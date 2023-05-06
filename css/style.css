@@ -39,7 +39,7 @@ body{
     background-size:cover;
     background-position: center;
     height: 50vh;
-    background-image: linear-gradient(rgba(0,0,0, 0.4), rgba(0,0,0,0.4)), url(../assets/imagenes/fondoindex2.jpg);
+    background-image: linear-gradient(rgba(0,0,0, 0.4), rgba(0,0,0,0.4)), url(../assets/imagenes/sombras4\(bis\).png);
     opacity: 0.8;
 }
 
